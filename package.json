@@ -1,0 +1,28 @@
+{
+  "name": "pun-dedicated-server",
+  "version": "1.0.0",
+  "description": "A simple server that listens to Photon Cloud Web hooks and fires a headless server in linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Jebadurai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hammerplay-studios/pun-dedicated-server.git"
+  },
+  "keywords": [
+    "pun",
+    "server",
+    "authoritative"
+  ],
+  "bugs": {
+    "url": "https://github.com/hammerplay-studios/pun-dedicated-server/issues"
+  },
+  "homepage": "https://github.com/hammerplay-studios/pun-dedicated-server#readme"
+}
