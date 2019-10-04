@@ -47,7 +47,7 @@ Click manage in your applications box, and scroll till you see the Webhooks sect
 
 ![enter image description here](https://github.com/hammerplay-studios/pun-webhook-server/blob/docs/docs/images/webhooks.PNG?raw=true)
 
-That's it. Now run a client version of the game, it should start a game instance on the server and it joins the room, if you start another client instance, it should start the game.
+That's it. Now run a client version of the game, it should start a game instance on the server and joins the room. If you start another client instance, it should start the game.
 
 
 
