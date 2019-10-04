@@ -38,9 +38,9 @@ Then run the server
 
     nodejs index.js
 
-Now that's done, your server is up and running. you can use [Postman](https://www.getpostman.com) to test the POST on the server.
+Now that's done, your server should be up and running. you can use [Postman](https://www.getpostman.com) to test the POST on the server.
 
-Now we need to setup things in the Photon dashboard,  
+Now we need to setup the Photon dashboard. 
 ![enter image description here](https://github.com/hammerplay-studios/pun-webhook-server/blob/docs/docs/images/application-manage.png?raw=true)
 
 Click manage in your applications box, and scroll till you see the Webhooks section, set the following values, and the path to your server [No forward slash at the end of the URL]
