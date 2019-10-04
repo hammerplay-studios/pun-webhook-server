@@ -30,7 +30,7 @@ Make sure the build is executable, there's a couple of installations you might n
     apt-get install libc6-i386
     apt-get install lib32stdc++6
 
-Once you successfully executed the build, install the node dependencies. This just has to be done once.
+Once you successfully execute the build, install the node dependencies. This just has to be done once.
 
     npm install
 
