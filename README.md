@@ -20,7 +20,7 @@ In the index.js file, there's the path to the build. You can change it according
 
     const  unityServerBuildLocation  =  '/var/www/photon-auth-server/build/photon-auth-server.x86'; 
 
-Make sure you make the build is executable, there's a couple of installations you might need to do, to make sure a unity build runs on a Linux distribution. Take a look at Google, it might different for yours. Mine was in Ubuntu 19.
+Make sure the build is executable, there's a couple of installations you might need to do, to make a unity build run on Linux distribution. Take a look at Google, it might different for yours. Mine was in Ubuntu 19.
 
     chmod +x photon-auth-server.x86
     apt-get install libglu1
